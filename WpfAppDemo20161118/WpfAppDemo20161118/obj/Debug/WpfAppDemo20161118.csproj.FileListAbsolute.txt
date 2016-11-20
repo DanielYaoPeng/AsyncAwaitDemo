@@ -1,0 +1,14 @@
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\bin\Debug\WpfAppDemo20161118.exe.config
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\bin\Debug\WpfAppDemo20161118.exe
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\bin\Debug\WpfAppDemo20161118.pdb
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.csprojResolveAssemblyReference.cache
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\MainWindow.g.cs
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\App.g.cs
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118_MarkupCompile.cache
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118_MarkupCompile.lref
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\MainWindow.baml
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.g.resources
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.Properties.Resources.resources
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.csproj.GenerateResource.Cache
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.exe
+C:\Users\Wen\Documents\Projects\博客园 Demos\WpfAppDemo20161118\WpfAppDemo20161118\obj\Debug\WpfAppDemo20161118.pdb
