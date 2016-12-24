@@ -6,3 +6,6 @@
 	
 利用 async & await 进行异步 IO 操作
 	http://www.cnblogs.com/liqingwen/p/6082673.html
+
+CSharp6示例
+        http://www.cnblogs.com/liqingwen/p/6217475.html
