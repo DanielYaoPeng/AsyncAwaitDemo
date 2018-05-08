@@ -73,7 +73,7 @@ namespace WpfApplication1
             //var contents = await Task.WhenAll(urlsTasks);
             //var sum = contents.Select(x => x.Length).Sum();
 
-            //tbResult.Text += $"  Total: {sum}";
+            //tbResult.Text += $"  Total: {sum}"; 添加测试文件
         }
 
         private IList<string> InitUrls()
